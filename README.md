@@ -24,3 +24,9 @@ Documentação oficial de C# da Microsoft: https://learn.microsoft.com/en-us/dot
 Tutoriais Unity Catlike Coding: https://catlikecoding.com/unity/tutorials/basics/
 
 Curso online Unity 2D (pago): https://www.udemy.com/course/unitycourse/
+
+### Projetos Unity
+
+Projeto sem nome: https://github.com/Mazzarolo/Open-World-Game-Project
+
+QuadTrain: https://github.com/GalileuGalilei/LDjam2023
