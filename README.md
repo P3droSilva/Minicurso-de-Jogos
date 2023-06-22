@@ -14,3 +14,13 @@ Gamejam da turma de Paradigmas de Programação de 2022 em libGDX: https://itch.
 Site oficial do Pygame: www.pygame.org
 
 Documentação oficial do Pygame: www.pygame.org/docs/
+
+### Aulas 3 e 4 - Unity
+
+Site oficial da Unity: https://unity.com/pt
+
+Documentação oficial de C# da Microsoft: https://learn.microsoft.com/en-us/dotnet/csharp/
+
+Tutoriais Unity Catlike Coding: https://catlikecoding.com/unity/tutorials/basics/
+
+Curso online Unity 2D (pago): https://www.udemy.com/course/unitycourse/
